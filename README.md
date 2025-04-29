@@ -5,7 +5,8 @@ Welcome to the official repository for the **Atomicals Core Engine (ACE)**, a fu
 This repository contains the public release of our Litepaper. It outlines the system architecture, developer tools, and trust model for ACE, a platform built to power apps, games, decentralized protocols, and individual users.
 
 📄 **Read the Litepaper (GitHub PDF)**  
-→ `litepaper.pdf`
+→ [litepaper.pdf](./litepaper.pdf)
+
 
 ---
 
